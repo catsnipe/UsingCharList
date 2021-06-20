@@ -23,7 +23,7 @@ npoi2.5.1 or later
     * サンプルには NPOI が含まれています。万が一ランセンスに問題が生じた場合、サンプルから削除される可能性があります。
 
 2. Assets/ に一覧化したいテキストを入れます。
-3. Tools/UsingCharList を実行します。  
+3. Tools/Using Character List を実行します。  
   ![image](https://user-images.githubusercontent.com/85425896/122669403-1dfac380-d1f8-11eb-8ce8-023ef2598b6b.png)  
     * 画像はサンプルプロジェクトのものです。
 4. 「+」をクリック、import に「2」で作成したテキスト（ディレクトリでも構いません）、export に一覧ファイル名を設定します。
