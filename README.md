@@ -30,7 +30,7 @@ npoi2.5.1 or later
 5. 「4」を複数作成することも出来ます。
 6. 「Create」で一覧ファイルを作成します。  
   
-    一覧ファイル  
+    出力されたファイル  
     ![image](https://user-images.githubusercontent.com/85425896/122669393-0e7b7a80-d1f8-11eb-98a2-97a75eb0cc43.png)
 
 # license
