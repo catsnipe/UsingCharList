@@ -32,6 +32,8 @@ npoi2.5.1 or later
   
     出力されたファイル  
     ![image](https://user-images.githubusercontent.com/85425896/122669393-0e7b7a80-d1f8-11eb-98a2-97a75eb0cc43.png)
+7. 一覧ファイルを FontAssetCreator(TextMeshPRO) に設定し、SDF ファイルを生成します。 
+    * Character Set は Characters from File にします。
 
 # license
 This sample project includes the work that is distributed in the Apache License 2.0 / MIT / MIT X11.  
