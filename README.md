@@ -34,14 +34,9 @@ npoi2.5.1 or later
     ![image](https://user-images.githubusercontent.com/85425896/122669393-0e7b7a80-d1f8-11eb-98a2-97a75eb0cc43.png)
 
 # license
-This sample project includes the work that is distributed in the Apache License 2.0 / MIT / MIT X11.
-このサンプルプロジェクトは、 Apache 2.0 / MIT / MIT X11 ライセンスで配布されている dll が含まれています。
+This sample project includes the work that is distributed in the Apache License 2.0 / MIT / MIT X11.  
+このサンプルプロジェクトは、 Apache 2.0 / MIT / MIT X11 ライセンスで配布されている dll が含まれています。  
 
-NPOI (Apache2.0)
-https://www.nuget.org/packages/NPOI/2.5.1/License
-
-SharpZLib (MIT)
-https://licenses.nuget.org/MIT
-
-Portable.BouncyCastle (MIT X11)
-https://www.bouncycastle.org/csharp/licence.html
+NPOI (Apache2.0): https://www.nuget.org/packages/NPOI/2.5.1/License  
+SharpZLib (MIT): https://licenses.nuget.org/MIT  
+Portable.BouncyCastle (MIT X11): https://www.bouncycastle.org/csharp/licence.html  
