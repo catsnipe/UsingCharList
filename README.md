@@ -24,14 +24,16 @@ npoi2.5.1 or later
 
 2. Assets/ に一覧化したいテキストを入れます。
 3. Tools/Using Character List を実行します。  
-  ![image](https://user-images.githubusercontent.com/85425896/122669403-1dfac380-d1f8-11eb-8ce8-023ef2598b6b.png)  
+  ![image](https://user-images.githubusercontent.com/85425896/122670127-49cb7880-d1fb-11eb-8cd7-9aa5abb110df.png)
     * 画像はサンプルプロジェクトのものです。
 4. 「+」をクリック、import に「2」で作成したテキスト（ディレクトリでも構いません）、export に一覧ファイル名を設定します。
 5. 「4」を複数作成することも出来ます。
 6. 「Create」で一覧ファイルを作成します。  
   
-    一覧ファイル  
+    出力されたファイル  
     ![image](https://user-images.githubusercontent.com/85425896/122669393-0e7b7a80-d1f8-11eb-98a2-97a75eb0cc43.png)
+7. 一覧ファイルを FontAssetCreator(TextMeshPRO) に設定し、SDF ファイルを生成します。 
+    * Character Set は Characters from File にします。
 
 # license
 This sample project includes the work that is distributed in the Apache License 2.0 / MIT / MIT X11.  
