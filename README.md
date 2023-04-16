@@ -1,17 +1,17 @@
 # UsingCharList
 テキスト（複数可）に使われている文字一覧を取得します
 
-# requirement
+## requirement
 unity2017 or later
 npoi2.5.1 or later
 
-# features
+## features
 * エクセル・テキスト内に存在する文字を全て抜き出し、一覧として出力します。  
 * 複数のファイルやディレクトリに対して処理することが可能です。  
     * ディレクトリの場合、取り込みを行う拡張子を選択することもできます。  
 * 解析可能フォーマットはテキスト、XLS(X) です。
 
-# usage
+## usage
 1. NPOI から以下のファイルをダウンロードし、使用可能にします。  
   **BouncyCastle.Crypto.dll**  
   **ICSharpCode.SharpZipLib.dll**  
@@ -35,7 +35,7 @@ npoi2.5.1 or later
 7. 一覧ファイルを FontAssetCreator(TextMeshPRO) に設定し、SDF ファイルを生成します。 
     * Character Set は Characters from File にします。
 
-# license
+## license
 This sample project includes the work that is distributed in the Apache License 2.0 / MIT / MIT X11.  
 このサンプルプロジェクトは、 Apache 2.0 / MIT / MIT X11 ライセンスで配布されている dll が含まれています。  
 
